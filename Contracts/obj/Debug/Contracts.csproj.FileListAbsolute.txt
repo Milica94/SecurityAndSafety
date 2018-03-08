@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\Contracts\bin\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\Contracts\obj\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\Contracts\obj\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\Contracts\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\Contracts\obj\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\Contracts\obj\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\Contracts\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\Contracts\obj\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\Contracts\obj\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Contracts\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Contracts\obj\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Contracts\obj\Debug\Contracts.pdb
+C:\Projekat 27\projekat final\Contracts\bin\Debug\Contracts.dll
+C:\Projekat 27\projekat final\Contracts\bin\Debug\Contracts.pdb
+C:\Projekat 27\projekat final\Contracts\obj\Debug\Contracts.dll
+C:\Projekat 27\projekat final\Contracts\obj\Debug\Contracts.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Contracts\bin\Debug\Contracts.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Contracts\bin\Debug\Contracts.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Contracts\obj\Debug\Contracts.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Contracts\obj\Debug\Contracts.pdb

@@ -1,0 +1,39 @@
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\obj\Debug\SecurityManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Projekat 27\projekat final\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Projekat 27\projekat final\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Projekat 27\projekat final\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+C:\Projekat 27\projekat final\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+C:\Projekat 27\projekat final\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Projekat 27\projekat final\SecurityManager\obj\Debug\SecurityManager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\bin\Debug\SecurityManager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\bin\Debug\SecurityManager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\obj\Debug\SecurityManager.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\obj\Debug\SecurityManager.AuditEventsFile.resources
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.Cache
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\obj\Debug\SecurityManager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\SecurityManager\obj\Debug\SecurityManager.pdb

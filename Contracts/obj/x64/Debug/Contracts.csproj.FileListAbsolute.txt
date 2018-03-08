@@ -1,0 +1,13 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\Contracts\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\Contracts\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\Contracts\obj\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\Contracts\obj\x64\Debug\Contracts.pdb

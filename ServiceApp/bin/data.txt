@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfBaza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Baza>
+    <Id>1</Id>
+    <Region>juzni</Region>
+    <Grad>Novi Sad</Grad>
+    <Godina>2016</Godina>
+    <Potrosnja>
+      <double>2</double>
+      <double>3</double>
+      <double>4</double>
+      <double>5</double>
+      <double>6</double>
+      <double>7</double>
+      <double>8</double>
+      <double>9</double>
+      <double>10</double>
+      <double>11</double>
+      <double>12</double>
+      <double>13</double>
+    </Potrosnja>
+  </Baza>
+  <Baza>
+    <Id>2</Id>
+    <Region>severni</Region>
+    <Grad>Subotica</Grad>
+    <Godina>2016</Godina>
+    <Potrosnja>
+      <double>1</double>
+      <double>2</double>
+      <double>3</double>
+      <double>4</double>
+      <double>5</double>
+      <double>6</double>
+      <double>7</double>
+      <double>8</double>
+      <double>9</double>
+      <double>10</double>
+      <double>11</double>
+      <double>12</double>
+    </Potrosnja>
+  </Baza>
+</ArrayOfBaza>

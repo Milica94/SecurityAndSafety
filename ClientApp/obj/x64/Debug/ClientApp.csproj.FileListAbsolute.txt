@@ -1,0 +1,21 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\bin\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\bin\x64\Debug\ClientApp.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ClientApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\bin\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\bin\x64\Debug\ClientApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ClientApp\obj\x64\Debug\ClientApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\bin\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\bin\x64\Debug\ClientApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\obj\x64\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\obj\x64\Debug\ClientApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ClientApp\obj\x64\Debug\ClientApp.pdb

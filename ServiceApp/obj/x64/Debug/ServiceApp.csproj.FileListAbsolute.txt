@@ -1,0 +1,27 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\obj\x64\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\obj\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\ServiceApp\obj\x64\Debug\ServiceApp.pdb

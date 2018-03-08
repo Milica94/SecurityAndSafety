@@ -1,0 +1,56 @@
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\bin\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\Admin\Desktop\VEZBE_Studenti\Vezba_5\Auditing\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\SBSG\v5\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\Projekat 27\v5 - Copy\Auditing\Auditing\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\Manager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\SecurityManager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\Manager.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\bin\Debug\SecurityManager.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\ClientApp.exe
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\ClientApp.pdb
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\Contracts.dll
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\Manager.dll
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\SecurityManager.dll
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\Contracts.pdb
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\Manager.pdb
+C:\Projekat 27\projekat final\ClientApp\bin\Debug\SecurityManager.pdb
+C:\Projekat 27\projekat final\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Projekat 27\projekat final\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Projekat 27\projekat final\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\ClientApp.exe.config
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\ClientApp.exe
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\ClientApp.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\Contracts.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\Manager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\SecurityManager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\Contracts.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\Manager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\bin\Debug\SecurityManager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\ClientApp\obj\x86\Debug\ClientApp.pdb

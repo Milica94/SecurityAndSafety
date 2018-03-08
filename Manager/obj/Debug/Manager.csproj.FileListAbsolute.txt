@@ -1,0 +1,17 @@
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\bin\Debug\Manager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\bin\Debug\Manager.pdb
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\bin\Debug\System.Net.Http.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\bin\Debug\System.Net.Http.xml
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\obj\Debug\Manager.dll
+C:\Users\ftn\Desktop\Projekat 27\Nasi projekti\v4.0\v4.0\Auditing\Manager\obj\Debug\Manager.pdb
+C:\Projekat 27\projekat final\Manager\bin\Debug\Manager.dll
+C:\Projekat 27\projekat final\Manager\bin\Debug\Manager.pdb
+C:\Projekat 27\projekat final\Manager\bin\Debug\System.Net.Http.dll
+C:\Projekat 27\projekat final\Manager\bin\Debug\System.Net.Http.xml
+C:\Projekat 27\projekat final\Manager\obj\Debug\Manager.dll
+C:\Projekat 27\projekat final\Manager\obj\Debug\Manager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Manager\bin\Debug\Manager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Manager\bin\Debug\Manager.pdb
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Manager\obj\Debug\Manager.dll
+E:\C\Fakultet\IV godina\SBSG_II\projekat final\Manager\obj\Debug\Manager.pdb

@@ -1,0 +1,13 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\SecurityManager\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\SecurityManager\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\SecurityManager\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\SecurityManager\obj\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\SecurityManager\obj\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\SecurityManager\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\SecurityManager\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\SecurityManager\obj\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Zadatak\Zadatak\AccessControls\SecurityManager\obj\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\SecurityManager\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\SecurityManager\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\SecurityManager\obj\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\VEZBE\VEZBE 2014\Vezba 06\Vezba 06\Auditing\SecurityManager\obj\x64\Debug\SecurityManager.pdb
